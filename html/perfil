@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="perfil.css">
+    <title>Meu Perfil - Nextage</title>
+</head>
+<body>
+
+    <div class="logo">Nextage</div>
+
+    <nav class="menu">
+        <ul>
+            <li><a href="inicial.html">Inicial</a></li>
+            <li><a href="sobre.html">referências</a></li>
+            <li><a href="serviços.html">Serviços</a></li>
+            <li><a href="contato.html">Contato</a></li>
+            <li><a href="perfil.html">Perfil</a></li>
+        </ul>
+    </nav>
+
+    <div class="perfil-box">
+
+        <h2>Seu Perfil</h2>
+
+        <div class="item">
+            <span>Nome:</span>
+            <p>Seu Nome Aqui</p>
+        </div>
+
+        <div class="item">
+            <span>E-mail:</span>
+            <p>contato@nextage.com</p>
+        </div>
+
+        <div class="item">
+            <span>Telefone:</span>
+            <p>(00) 00000-0000</p>
+        </div>
+
+        <div class="item">
+            <span>Função:</span>
+            <p>Cliente</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
