@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login - Nextage</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+
+    
+    <div class="logo">Nextage</div> 
+
+    <div class="login-box">
+        <h2>faça seu login
+            
+        </h2>
+        <div class="cadastro">
+            <p>não tem uma conta? cadastre-se</p>
+            <a href="file:///C:/Users/Seu%20PC/Nova%20pasta/Nova%20pasta/cadastro.html">
+                clique aqui!
+            </a>
+
+
+        </div>
+
+        <form>
+            <form action=""></form>
+            <input type="email" placeholder="E-mail">
+            <input type="password" placeholder="Senha">
+            <button>Entrar</button>
+        
+            </a>
+
+        </form>
+    </div>
+
+</body>
+</html>
