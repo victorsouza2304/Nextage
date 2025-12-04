@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="explicacao.css">
+    <title>Explicações - Nextage</title>
+</head>
+<body>
+
+    <div class="logo">Nextage</div>
+
+    <nav class="menu">
+        <ul>
+            <li><a href="inicial.html">Inicial</a></li>
+            <li><a href="sobre.html">referências</a></li>
+            <li><a href="serviços.html">Serviços</a></li>
+            <li><a href="contato.html">Contato</a></li>
+            <li><a href="perfil.html">Perfil</a></li>
+            <li><a href="explicacao.html">Explicação</a></li>
+        </ul>
+    </nav>
+
+    <div class="exp-box">
+        <h2>Explicações das Páginas</h2>
+
+        <div class="exp-item">
+            <h3>Inicial</h3>
+            <p>Página principal que apresenta a identidade da Nextage e direciona o usuário para o resto do site.</p>
+        </div>
+
+        <div class="exp-item">
+            <h3>Sobre</h3>
+            <p>Mostra quem somos, nossa visão, objetivos e como trabalhamos dentro do marketing digital.</p>
+        </div>
+
+        <div class="exp-item">
+            <h3>Serviços</h3>
+            <p>Lista detalhada dos serviços oferecidos pela Nextage, como gestão de tráfego, criação de sites e social media.</p>
+        </div>
+
+        <div class="exp-item">
+            <h3>Contato</h3>
+            <p>Informações para o cliente falar com a empresa, como e-mail, telefone e formulário.</p>
+        </div>
+
+        <div class="exp-item">
+            <h3>Perfil</h3>
+            <p>Área onde o usuário visualiza os dados pessoais dele dentro do site.</p>
+        </div>
+
+        <div class="exp-item">
+            <h3>Referências</h3>
+            <p>Página com empresas do mercado que inspiram o modelo da Nextage.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
