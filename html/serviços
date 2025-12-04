@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="serviços.css">
+    <title>serviços - Nextage</title>
+</head>
+<body>
+    <div class="logo">Nextage</div>
+    <div class="texto-box">
+        <p>• Gestão de Redes Sociais
+Criamos e administramos perfis profissionais com conteúdo estratégico, visual atrativo e comunicação alinhada ao público-alvo. Desde artes, legendas e cronogramas até análise de desempenho, cuidamos de tudo para manter sua marca ativa e relevante.
+<br>
+• Criação de Identidade Visual
+Desenvolvemos logotipos, tipografias, paletas de cores e elementos visuais que representam a essência da marca. O objetivo é construir uma imagem forte, memorável e profissional.
+<br>
+• Desenvolvimento de Websites
+Projetamos sites modernos, responsivos e otimizados, garantindo navegação rápida, visual elegante e foco em conversão. Ideal para quem precisa apresentar serviços, portfólio ou informações da empresa com credibilidade.
+<br>
+• Tráfego Pago (Anúncios Online)
+Planejamos e gerenciamos campanhas no Google Ads, Facebook Ads e Instagram Ads, buscando alcance, engajamento e vendas. Monitoramos resultados de perto para garantir o melhor custo-benefício.
+<br>
+• SEO (Otimização para Buscadores)
+Aplicamos técnicas de otimização para que seu site alcance melhores posições no Google, aumentando visitas orgânicas e fortalecendo sua presença digital sem depender apenas de anúncios.
+<br>
+• Produção de Conteúdo
+Criamos textos, artes, reels e materiais informativos voltados para comunicação assertiva e profissional em redes sociais, sites e anúncios. Tudo pensado para atrair, prender atenção e converter.</p>
+       
+    </div>
+    <nav class="menu">
+    <ul>
+        <li><a href="inicial.html">Inicial</a></li>
+        <li><a href="sobre.html">referências</a></li>
+        <li><a href="serviços.html">Serviços</a></li>
+        <li><a href="contato.html">Contato</a></li>
+        <li><a href="perfil.html">Perfil</a></li>
+    </ul>
+</nav>
+
+
+
+</body>
+</html>
