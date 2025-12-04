@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="inicial.css">
+    <title>Inicial - Nextage</title>
+</head>
+<body>
+    <div class="logo">Nextage</div>
+    <div class="texto-box">
+        <p>
+           A Nextage é uma empresa especializada em soluções completas de marketing digital, dedicada a impulsionar marcas e elevar sua presença no ambiente online. Atuamos com estratégias personalizadas, desenvolvidas a partir de análises detalhadas e foco total em performance, garantindo que cada ação gere resultados reais e sustentáveis.
+
+Nosso trabalho abrange desde gestão de redes sociais, criação de identidade visual e desenvolvimento de websites até campanhas de tráfego pago, otimização para mecanismos de busca (SEO) e produção de conteúdo profissional.  
+            
+        </p>
+        <p>Você cuida do seu negócio.  
+        A gente cuida de fazer todo mundo conhecer ele.</p>
+    </div>
+    <nav class="menu">
+    <ul>
+        <li><a href="inicial.html">Inicial</a></li>
+        <li><a href="sobre.html">referências</a></li>
+        <li><a href="serviços.html">Serviços</a></li>
+        <li><a href="contato.html">Contato</a></li>
+         <li><a href="perfil.html">Perfil</a></li>
+    </ul>
+</nav>
+
+
+
+</body>
+</html>
