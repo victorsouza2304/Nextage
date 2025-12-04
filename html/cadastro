@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cadastro - Nextage</title>
+    <link rel="stylesheet" href="cadastro.css">
+</head>
+<body>
+
+    <div class="logo">Nextage</div>
+
+    <div class="login-box">
+        <h2>Faça seu cadastro!</h2>
+
+        <form>
+            <input type="email" placeholder="E-mail">
+            <input type="password" placeholder="Senha">
+            <button>Entrar</button>
+        </form>
+    </div>
+
+</body>
+</html>
