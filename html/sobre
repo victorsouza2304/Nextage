@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sobre.css">
+    <title>Referências - Nextage</title>
+</head>
+<body>
+
+    <div class="logo">Nextage</div>
+
+    <nav class="menu">
+        <ul>
+            <li><a href="inicial.html">Inicial</a></li>
+            <li><a href="sobre.html">referências</a></li>
+            <li><a href="serviços.html">Serviços</a></li>
+            <li><a href="contato.html">Contato</a></li>
+            <li><a href="perfil.html">Perfil</a></li>
+        </ul>
+    </nav>
+
+    <div class="ref-box">
+        <h2>Referências</h2>
+
+        <div class="ref-item">
+            <h3>WTZ Agência</h3>
+            <p>Marketing digital, tráfego e criação de sites profissionais.</p>
+        </div>
+
+        <div class="ref-item">
+            <h3>Mirago</h3>
+            <p>Educação e serviços digitais com foco em estratégias modernas.</p>
+        </div>
+
+        <div class="ref-item">
+            <h3>V4 Company</h3>
+            <p>Gestão de tráfego e vendas online focada em performance.</p>
+        </div>
+
+        <div class="ref-item">
+            <h3>Nação Digital</h3>
+            <p>SEO, inbound marketing e automação orientada a dados.</p>
+        </div>
+
+        <div class="ref-item">
+            <h3>Agência WX</h3>
+            <p>Criação de sites, e-commerces e estratégias digitais completas.</p>
+        
+            <p> Essas são umas das empresas que pegamos de inspiração para a Nextage</p>
+        </div>
+           <h2><p> Essas são umas das empresas que pegamos de inspiração para a Nextage</p></h2>
+    </div>
+
+</body>
+</html>
