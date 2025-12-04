@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="contato.css">
+    <title>Contato - Nextage</title>
+</head>
+<body>
+
+    <div class="logo">Nextage</div>
+    
+    <nav class="menu">
+        <ul>
+            <li><a href="inicial.html">Inicial</a></li>
+            <li><a href="sobre.html">referências</a></li>
+            <li><a href="serviços.html">Serviços</a></li>
+            <li><a href="contato.html">Contato</a></li>
+             <li><a href="perfil.html">Perfil</a></li>
+        </ul>
+    </nav>
+
+    <div class="contato-box">
+        <h2>Contato da Empresa</h2>
+
+        <div class="info-item">📞 Telefone: (XX) XXXX-XXXX</div>
+        <div class="info-item">✉️ E-mail: Nextage@empresa.com</div>
+        <div class="info-item">📍 Endereço: Rua Sebastião Malucelli, nº 1312</div>
+    </div>
+
+</body>
+</html>
